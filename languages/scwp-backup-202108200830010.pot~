@@ -1,0 +1,156 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Hello Elementor Child\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-08-20 08:28+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.1; wp-5.3"
+
+#: includes/menu-page.php:106
+msgid "Alert Message"
+msgstr ""
+
+#: includes/menu-page.php:140
+msgid "Choich Time Zone"
+msgstr ""
+
+#: includes/menu-page.php:61
+msgid "Close Shop"
+msgstr ""
+
+#: includes/menu-page.php:96
+msgid "Close Site Alert"
+msgstr ""
+
+#: includes/menu-page.php:54
+msgid "Close WooCommerce Shop On Shabbat"
+msgstr ""
+
+#. Description of the plugin
+msgid "Close WP site on Shabbat & holiday"
+msgstr ""
+
+#: includes/menu-page.php:29
+msgid "Close WP sites on Shabaat & Holiday"
+msgstr ""
+
+#: includes/menu-page.php:121
+msgid "Complete close"
+msgstr ""
+
+#: includes/menu-page.php:123
+msgid "Complete close background img"
+msgstr ""
+
+#: includes/menu-page.php:114
+msgid "Complete closure of the site"
+msgstr ""
+
+#: includes/time_zone.php:426
+msgid "Default Time Zone - IL-Jerusalem"
+msgstr ""
+
+#: includes/menu-page.php:166
+msgid "Development options - JS object"
+msgstr ""
+
+#: includes/menu-page.php:176
+msgid "Development: Naftali Stein"
+msgstr ""
+
+#: includes/menu-page.php:85
+msgid "Elmentor PopUp ID"
+msgstr ""
+
+#: includes/menu-page.php:75
+msgid "Elmentor Pro PopUp"
+msgstr ""
+
+#: includes/menu-page.php:127
+msgid "Exception page ID, separated by commas"
+msgstr ""
+
+#: includes/menu-page.php:126
+msgid "Exclude pages"
+msgstr ""
+
+#: includes/menu-page.php:178
+msgid "For non-commercial use"
+msgstr ""
+
+#: includes/menu-page.php:21
+msgid "ltr"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "mailto:naftulish@gmail.com"
+msgstr ""
+
+#. Author of the plugin
+msgid "Naftali Stein"
+msgstr ""
+
+#: includes/menu-page.php:162
+msgid "Save Settings"
+msgstr ""
+
+#. Name of the plugin
+msgid "Shabbat close WP"
+msgstr ""
+
+#: functions.php:8 includes/menu-page.php:28
+msgid "Shabbat Kodesh"
+msgstr ""
+
+#: includes/menu-page.php:149
+msgid "Shabbat Mode"
+msgstr ""
+
+#: includes/menu-page.php:168
+msgid "The { scwp } object contains information about shabbat times"
+msgstr ""
+
+#: includes/menu-page.php:136
+msgid "Time Zone"
+msgstr ""
+
+#: includes/menu-page.php:137
+msgid "Time Zone For Shabbat Times"
+msgstr ""
+
+#: includes/menu-page.php:104
+msgid "Turn On Alert"
+msgstr ""
+
+#: includes/menu-page.php:97
+msgid "Turn On Alert On Close Site"
+msgstr ""
+
+#: includes/menu-page.php:83
+msgid "Turn On Elmentor PopUp"
+msgstr ""
+
+#: includes/menu-page.php:76
+msgid "Turn On Elmentor Pro PopUp On Close Shop"
+msgstr ""
+
+#: includes/menu-page.php:157
+msgid "Turn On Shabbat Mode"
+msgstr ""
+
+#: includes/menu-page.php:150
+msgid "Turn Site To Shabbat Mode"
+msgstr ""
+
+#: includes/menu-page.php:53
+msgid "WooCommerce Shop"
+msgstr ""

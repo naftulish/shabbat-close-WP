@@ -1,0 +1,158 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Hello Elementor Child\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-04-25 23:02+0000\n"
+"PO-Revision-Date: 2021-08-20 08:31+0000\n"
+"Last-Translator: \n"
+"Language-Team: עִבְרִית\n"
+"Language: he_IL\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.3; wp-5.4"
+
+#: includes/menu-page.php:106
+msgid "Alert Message"
+msgstr "הודעת התראה"
+
+#: includes/menu-page.php:140
+msgid "Choich Time Zone"
+msgstr "בחר אזור זמן"
+
+#: includes/menu-page.php:61
+msgid "Close Shop"
+msgstr "סגירת חנות"
+
+#: includes/menu-page.php:96
+msgid "Close Site Alert"
+msgstr "התראת אתר סגור"
+
+#: includes/menu-page.php:54
+msgid "Close WooCommerce Shop On Shabbat"
+msgstr "סגירת חנות ווקומרס בשבת וחג"
+
+#. Description of the plugin
+msgid "Close WP site on Shabbat & holiday"
+msgstr "סגירת אתר בשבת וחג"
+
+#: includes/menu-page.php:29
+msgid "Close WP sites on Shabaat & Holiday"
+msgstr "סגירת אתרי וורדפרס בשבת וחג"
+
+#: includes/time_zone.php:426
+msgid "Default Time Zone - IL-Jerusalem"
+msgstr "אזור זמן ברירת מחדל - IL-Jerusalem"
+
+#: includes/menu-page.php:166
+msgid "Development options - JS object"
+msgstr "אפשרויות למפתחים - אובייקט JS"
+
+#: includes/menu-page.php:176
+msgid "Development: Naftali Stein"
+msgstr "פיתוח: נפתלי שטיין"
+
+#: includes/menu-page.php:85
+msgid "Elmentor PopUp ID"
+msgstr "מזהה יחודי (ID) של אלמנטור פופאפ"
+
+#: includes/menu-page.php:75
+msgid "Elmentor Pro PopUp"
+msgstr "אלמנטור פרו פופאפ"
+
+#: includes/menu-page.php:127
+msgid "Exception page ID, separated by commas"
+msgstr "ID של דפים להחרגה, חלוקה עם פסיק"
+
+#: includes/menu-page.php:126
+msgid "Exclude pages"
+msgstr "החרגה של עמודים"
+
+#: includes/menu-page.php:178
+msgid "For non-commercial use"
+msgstr "לשימוש חופשי - לא מסחרי"
+
+#: includes/menu-page.php:21
+msgid "ltr"
+msgstr "rtl"
+
+#. Author URI of the plugin
+msgid "mailto:naftulish@gmail.com"
+msgstr "mailto:naftulish@gmail.com"
+
+#. Author of the plugin
+msgid "Naftali Stein"
+msgstr "נפתלי שטיין"
+
+#: includes/menu-page.php:162
+msgid "Save Settings"
+msgstr "שמירת שינויים"
+
+#. Name of the plugin
+msgid "Shabbat close WP"
+msgstr "Shabbat close WP"
+
+#: functions.php:8 includes/menu-page.php:28
+msgid "Shabbat Kodesh"
+msgstr "שבת קודש"
+
+#: includes/menu-page.php:149
+msgid "Shabbat Mode"
+msgstr "מצב שבת"
+
+#: includes/menu-page.php:168
+msgid "The { scwp } object contains information about shabbat times"
+msgstr "האובייקט { scwp } מכיל מידע אודות זמני השבת"
+
+#: includes/menu-page.php:136
+msgid "Time Zone"
+msgstr "אזור זמן"
+
+#: includes/menu-page.php:137
+msgid "Time Zone For Shabbat Times"
+msgstr "אזור זמן לקביעת זמני השבת"
+
+#: includes/menu-page.php:104
+msgid "Turn On Alert"
+msgstr "הפעלת התראה"
+
+#: includes/menu-page.php:97
+msgid "Turn On Alert On Close Site"
+msgstr "הפעלת התראה כשהאתר סגור"
+
+#: includes/menu-page.php:83
+msgid "Turn On Elmentor PopUp"
+msgstr "הפעלת פופאפ אלמנטור פרו"
+
+#: includes/menu-page.php:76
+msgid "Turn On Elmentor Pro PopUp On Close Shop"
+msgstr "הפעלת פופאפ אלמנטור כשהחנות סגורה"
+
+#: includes/menu-page.php:157
+msgid "Turn On Shabbat Mode"
+msgstr "הפעלת מצב שבת"
+
+#: includes/menu-page.php:150
+msgid "Turn Site To Shabbat Mode"
+msgstr "הפעלת מצב שבת"
+
+#: includes/menu-page.php:53
+msgid "WooCommerce Shop"
+msgstr "חנות ווקומרס"
+
+#: includes/menu-page.php:121
+msgctxt "סגירה מוחלטת"
+msgid "Complete close"
+msgstr "סגירה מוחלטת"
+
+#: includes/menu-page.php:114
+msgctxt "סגירה מוחלטת של האתר (503)"
+msgid "Complete closure of the site"
+msgstr "סגירה מוחלטת של האתר (503)"
+
+#: includes/menu-page.php:123
+msgctxt "תמונות רקע להצגה בסגירת האתר"
+msgid "Complete close background img"
+msgstr "תמונת רקע להצגה"
